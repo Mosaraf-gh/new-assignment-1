@@ -1,0 +1,115 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.donate-now {
+    background-image: url(images/donation6.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 300px;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 700;
+
+}
+
+.donate-text {
+    color: white;
+    text-align: center;
+
+}
+
+
+.donate-button {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    margin-top: 30px;
+
+}
+
+.donate-now1 {
+    background-size: 100%;
+
+    padding: 300px;
+    text-align: center;
+}
+
+.taka-amount {
+    display: flex;
+    box-sizing: border-box;
+    padding: 30px;
+}
+
+.box {
+    width: 20%;
+    background-color: aliceblue;
+    margin: 5px;
+    padding: 30px;
+    box-shadow: 5px 5px 8px orange;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.flexible-container {
+    display: flex;
+
+    margin-bottom: 150px;
+    background-repeat: no-repeat;
+}
+
+.half-width img {
+    width: 80%;
+    margin-top: 10px;
+}
+
+.plan-item {
+    width: 33%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding:20px;
+}
+
+#plan1 {
+    background-color: aliceblue;
+}
+
+#plan2 {
+    background-color: antiquewhite;
+}
+
+#plan3 {
+    background-color: aqua;
+}
+
+footer {
+    height: 200px;
+    background-color: black;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.mail {
+    text-align: center;
+
+}
+
+.mailbox {
+    padding: 100px;
+    display: inline-block;
+    background-color: blanchedalmond;
+    margin: 60px;
+}
